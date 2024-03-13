@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mototom121
-- 👀 I’m interested in Existentialism
+- 👀 I’m interested in...
 - 🌱 I’m currently learning PSYCHOLOGY
 - 💞️ I’m looking to collaborate on R in processing data
 - 📫 How to reach me ...
